@@ -1,7 +1,8 @@
 {
   "packs": [
     "menhera_kun_12.json",
-    "menhera_kun_1.json"
+    "menhera_kun_1.json",
+    "Yebenks_by_fStikBot.json"
   ],
   "homeserver_url": "https://mm.contact-centre.ru"
 }
