@@ -1,6 +1,7 @@
 {
   "packs": [
-    "menhera_kun_12.json"
+    "menhera_kun_12.json",
+    "menhera_kun_1.json"
   ],
   "homeserver_url": "https://mm.contact-centre.ru"
 }
